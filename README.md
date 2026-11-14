@@ -7,15 +7,13 @@
 # SHOURYA PHULPAGAR
 
 ### Developer • Systems & Software Engineering • Aerospace
-
-<img src="https://img.shields.io/badge/PRO-EDITION-FF7A3C?style=for-the-badge&labelColor=0B0E13" />
-<img src="https://img.shields.io/badge/BUILDING-IN_PUBLIC-202020?style=for-the-badge&logo=github&logoColor=FF7A3C" />
+<a href="https://github.com/shouryaphulpagar"><img src="https://img.shields.io/badge/PRO-EDITION-FF7A3C?style=for-the-badge&labelColor=0B0E13" /></a>
+<a href="https://github.com/shouryaphulpagar?tab=repositories"><img src="https://img.shields.io/badge/BUILDING-IN_PUBLIC-202020?style=for-the-badge&logo=github&logoColor=FF7A3C" /></a>
+<a href="https://shourya.win"><img src="https://img.shields.io/badge/PORTFOLIO-shourya.win-202020?style=for-the-badge&logo=googlechrome&logoColor=FF7A3C" /></a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=850&color=FF7A3C&center=true&vCenter=true&width=720&lines=Exploring+systems%2C+software+and+space.;Learning+Rust%2C+one+project+at+a+time.;Building+ideas+into+working+technology.;Curiosity+is+the+始点.)](https://git.io/typing-svg)
 
 *Curious about what happens beneath the interface — and what becomes possible beyond it.*
-
-[GitHub](https://github.com/shouryaphulpagar) · [Repositories](https://github.com/shouryaphulpagar?tab=repositories)
 
 </div>
 
